@@ -38,7 +38,7 @@
 | Project | Description | Language |
 |---|---|---|
 | [AES_128](https://github.com/Ewan-lrx/AES-Encryption.git) | Implementation of the AES-128 encryption and decryption algorithm written completely from scratch in Python | Python |
-| [ft_ssl (in progress)](https://github.com/Ewan-lrx/ft_ssl_md5.git) | Reimplementation of the MD5 and SHA-256 hashing algorithms from scratch (padding, little-endian length encoding, init/update/final architecture) | C |
+| [ft_ssl](https://github.com/Ewan-lrx/ft_ssl_md5.git) | Reimplementation of the MD5 and SHA-256 hashing algorithms from scratch (padding, little-endian length encoding, init/update/final architecture) | C |
 
 ---
 
